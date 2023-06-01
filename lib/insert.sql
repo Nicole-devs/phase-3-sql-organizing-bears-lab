@@ -4,4 +4,5 @@ VALUES ('Mr. Chocolate', 5, 'M', 'brown', 'calm', true),
        ('Tabitha', 3, 'F', 'blue', 'quiet', true),
        ('Sergeant Brown', 7, 'M', 'golden', 'caring', true),
        ('Melissa', 2, 'F', 'black', 'loud', true),
+       ('Grinch', 6, 'M', 'grey', 'angry', true),
        
